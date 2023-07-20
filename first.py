@@ -1,1 +1,3 @@
-print("hello world")
+text ="hello everyone who are you"
+x = txt.capitalize()
+print (x)
