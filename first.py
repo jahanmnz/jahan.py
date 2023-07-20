@@ -1,3 +1,3 @@
-text ="hello everyone who are you"
+text ="hello everyone  welcome to my Repository "
 x = txt.capitalize()
 print (x)
