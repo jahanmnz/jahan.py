@@ -1,5 +1,5 @@
 def function(name):
- print("Hello" + name)
+ print("Hello " + name)
 
- function("Jahangir")
- function("Ahmad")
+function("Jahangir")
+function("Ahmad")
