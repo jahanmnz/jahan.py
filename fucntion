@@ -1,0 +1,25 @@
+"""def greet_user(name):
+    print("Heloo  " + name)
+
+greet_user("sadoo")"
+
+
+
+def calculate_rectangle_area(widt,height):
+    print(widt*height)
+
+widt=5
+height=8
+function= calculate_rectangle_area(widt,height)""
+
+
+def celsius_to_fahrenheit (Celsius):
+   print((Celsius * 9/5) + 32)
+
+Celsius= 25
+function=celsius_to_fahrenheit (Celsius)"""
+
+
+def is_even(n):
+    return n % 2 ==0
+print( is_even(10))
