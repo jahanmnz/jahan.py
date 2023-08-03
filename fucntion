@@ -17,9 +17,31 @@ def celsius_to_fahrenheit (Celsius):
    print((Celsius * 9/5) + 32)
 
 Celsius= 25
-function=celsius_to_fahrenheit (Celsius)"""
+function=celsius_to_fahrenheit (Celsius)""
 
 
 def is_even(n):
-    return n % 2 ==0
-print( is_even(10))
+    return n % 2 ==0 
+
+print( is_even(10))""
+
+    
+
+age = 25
+if age > 19:
+ print("He is an adult")
+else:
+ print("He is a minor")""
+
+
+even_numbers = [i * 2 for i in range(1, 11)]
+
+for number in even_numbers:
+    print(number)"""
+
+
+counter = 1
+while counter <= 5:
+    square = counter ** 2
+    print(f"The square of {counter} is {square}")
+    counter += 1
